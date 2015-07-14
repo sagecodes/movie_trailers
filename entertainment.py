@@ -27,6 +27,6 @@ star_trek = media.Movie("Star Trek",
 										 "https://www.youtube.com/watch?v=SyJszxnJydA")
 
 
-
 movies = [kung_fury, batman_begins, iron_man, starwars, star_trek]
+fresh_tomatoes.open_movies_page(movies)
 

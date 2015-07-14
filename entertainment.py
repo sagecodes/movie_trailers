@@ -1,5 +1,5 @@
 import media
-import fresh_tomatoes
+import them_apples
 
 kung_fury = media.Movie("Metropolis",
 												 "Kung fu guy becomes time traveling nazi killer",
@@ -28,5 +28,5 @@ star_trek = media.Movie("Star Trek",
 
 
 movies = [kung_fury, batman_begins, iron_man, starwars, star_trek]
-fresh_tomatoes.open_movies_page(movies)
+them_apples.open_movies_page(movies)
 
